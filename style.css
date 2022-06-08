@@ -1,5 +1,7 @@
 * {
-  margin-bottom: 20px;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 ul {
   margin: auto 100px;
@@ -64,7 +66,7 @@ address {
   background-color: lightgray;
   border: 5px double green;
 }
-body > header.mainHead > h1{
+body > header.mainHead > h1 {
   text-align: center;
   text-decoration: underline;
   font-size: 65px;
@@ -75,4 +77,14 @@ body > header.mainHead > h1{
   border-width: 7px;
   border-color: green;
 }
-
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+a {
+  text-decoration: none;
+  color: blue;
+  font-size: 20px;
+}

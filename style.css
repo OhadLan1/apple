@@ -1,3 +1,6 @@
+* {
+  margin-bottom: 20px;
+}
 ul {
   margin: auto 100px;
   border-style: double;
@@ -56,4 +59,8 @@ address {
 #conUsP {
   text-align: left;
   margin-inline-start: 2px;
+}
+.main {
+  background-color: lightgray;
+  border: 5px double green;
 }

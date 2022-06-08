@@ -1,0 +1,59 @@
+ul {
+  margin: auto 100px;
+  border-style: double;
+  border-width: 7px;
+  border-color: black;
+  background-color: green;
+}
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 65px;
+  margin: 0px;
+  color: green;
+  background-color: black;
+  border-style: groove;
+  border-width: 7px;
+  border-color: green;
+}
+table {
+  border: solid 1px;
+  background-color: grey;
+  text-align: center;
+}
+table td {
+  border: dashed 1px;
+}
+table th {
+  border: dashed 1px;
+}
+section {
+  margin-top: 20px;
+  width: auto;
+  padding: 0%;
+  border: solid 10px;
+  border-color: green;
+  background-color: black;
+  color: white;
+}
+address {
+  background-color: pink;
+  color: black;
+  border: solid 5px;
+}
+#contactUsForm {
+  margin: 10px auto 0px auto;
+  text-align: center;
+  width: 200px;
+  border-style: groove;
+  border-radius: 5px;
+  border-color: black;
+  background-color: lightgreen;
+}
+#contactUsBtn {
+  margin-top: 10px;
+}
+#conUsP {
+  text-align: left;
+  margin-inline-start: 2px;
+}

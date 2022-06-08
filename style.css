@@ -64,3 +64,15 @@ address {
   background-color: lightgray;
   border: 5px double green;
 }
+body > header.mainHead > h1{
+  text-align: center;
+  text-decoration: underline;
+  font-size: 65px;
+  margin: 0px;
+  color: green;
+  background-color: black;
+  border-style: groove;
+  border-width: 7px;
+  border-color: green;
+}
+
